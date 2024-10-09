@@ -38,9 +38,11 @@ namespace Palack
             int result = 0;
             foreach (var item in palackok)
             {
+                
             }
                 return 0;
-        }//*/
+        }
+        //Nem tudok rájönni, hogy ezt a függvényt hogy oldjam meg. Később visszatérek rá.*/
 
     }
 }
